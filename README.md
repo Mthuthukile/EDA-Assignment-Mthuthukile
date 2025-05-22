@@ -1,6 +1,6 @@
 # Winemag Insights. Top Wine Rankings From All Around The World
 
-39eb422a-2ca7-4391-8486-108a210c1c95.jpeg
+[39eb422a-2ca7-4391-8486-108a210c1c95.jpeg](https://github.com/Mthuthukile/EDA-Assignment-Mthuthukile/blob/5a54930c6ccb6fd254bbedc339c1f624bcdc42b2/images-2.jpeg)
    
   #### This Wine Dataset from winemag looks at the wine drinking preferences of cusomters from all over the world in 2017. The data population consists \n",
   #### of 129 970 observations in total of specific wines, and records their title, grape variety or cultiver, country of origin, price in dollars and \n",
